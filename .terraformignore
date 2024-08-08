@@ -1,0 +1,6 @@
+.editorconfig
+.git/
+.gitignore
+.terraform/
+README.md
+.DS_Store
